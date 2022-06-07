@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589413520 source:d:\bilgisayar muhendisligi\calismalarim\prolab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589413520 source:d:\bilgisayar muhendisligi\calismalarim\codeblocks(c-c++)\prolab5(c)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
